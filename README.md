@@ -2,222 +2,218 @@
 
 ### Data & Business Intelligence Analyst
 
-**SQL | Python | Power BI | PostgreSQL | Data Modeling | ETL | Business Analytics**
+**SQL · Python · Power BI · Data Modeling · Business Analytics · Automation**
 
-I build data solutions that transform raw and operational data into structured datasets, business insights, and decision-ready dashboards.
-
-My current focus is **Business Intelligence and Data Analytics**, with hands-on work across SQL, Python, PostgreSQL, Power BI, data modeling, ETL, data quality, and business-focused analytics.
+I build data solutions that turn operational data into **clear insights, useful dashboards, and better business decisions.**
 
 ---
 
-## 👋 About Me
+## About Me
 
-I am a Mathematics graduate transitioning my analytical and quantitative background into **Data Analytics and Business Intelligence**.
+I’m a Data & Business Intelligence Analyst with a background in mathematics and applied computational research.
 
-My approach combines mathematical problem-solving with practical data workflows:
+My current focus is on building practical data solutions using:
 
-**Business Problem → Data → Cleaning → Modeling → Analysis → Visualization → Insight**
+* **SQL & PostgreSQL** for querying and analytical data work
+* **Python & Pandas** for data processing and automation
+* **Power BI** for dashboards and business reporting
+* **Data modeling & ETL** for building reliable analytical workflows
+* **Business analysis** for turning data into actionable insights
 
-I enjoy working on projects where data is not only analyzed, but transformed into something useful for decision-making.
-
-### What I work with
-
-* **Data Analysis:** SQL, Python, Pandas, Excel
-* **Business Intelligence:** Power BI, Tableau, Data Visualization
-* **Data Engineering:** PostgreSQL, ETL, Data Modeling, Data Quality
-* **Automation:** Python-based data processing and validation
-* **Analytics:** Business Analytics, Statistical Analysis, Risk Analysis
+I enjoy working across the complete analytics workflow — from understanding a business problem and preparing data to building analytical models, dashboards, and decision-support tools.
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-## 1. Customer Success Operations Intelligence Platform
+### 01 · Customer Success Operations Intelligence Platform
 
 **Python · PostgreSQL · SQL · Pandas · Power BI · ETL · Data Modeling**
 
 An end-to-end customer operations analytics platform integrating CRM, support, product usage, survey, and renewal data into a unified analytical model.
 
-### Key capabilities
+**What I built**
 
-* Designed a relational data model for customer operations data
-* Built Python-based data generation and ETL workflows
-* Implemented data-quality checks and validation
-* Developed customer health scoring
-* Built risk and churn detection logic
-* Created an Action Center for prioritizing customer issues
-* Developed SQL reporting views
-* Built Power BI dashboards for customer health and CSM performance
-* Used Dockerized PostgreSQL and modular Python architecture
-* Added testing and documentation throughout the project
+* Relational analytical data model
+* Python-based data generation and ETL
+* Data-quality validation
+* Customer health scoring
+* Risk and churn detection
+* SQL reporting views
+* Power BI dashboards
+* Action Center for prioritizing customer issues
+* Automated testing and Dockerized PostgreSQL environment
 
-### Business Focus
+**Key validation:** Churned accounts scored **36 points lower on average** than renewed accounts.
 
-Designed to help customer-success teams move from fragmented operational data toward a unified view of customer health, identify risks earlier, and prioritize actions.
+**Business focus:** Helping customer-success teams identify risk earlier and prioritize actions using unified operational data.
 
-**→ View the project:** `CS-operations-intelligence-platform`
+**Repository:** [View Project](https://github.com/Ncoder3/CS-operations-intelligence-platform)
 
----
+**Dashboard Preview**
 
-## 2. Enterprise Lead Intelligence & Data Pipeline
+> *Power BI screenshots will be added here.*
 
-**Python · PostgreSQL · Web Scraping · ETL · Data Validation · Data Quality · Docker**
-
-A modular data pipeline designed for collecting, processing, validating, and storing business lead data.
-
-### Key capabilities
-
-* Built a PostgreSQL-based data layer
-* Developed modular Python components for data acquisition and processing
-* Implemented web scraping workflows
-* Added pagination and concurrent processing
-* Built identity and email validation workflows
-* Implemented data normalization and quality checks
-* Added database persistence and bulk data operations
-* Created automated tests for core pipeline components
-* Used Docker for the PostgreSQL environment
-
-### Business Focus
-
-Designed to automate the collection and refinement of business lead data while creating a reliable foundation for sales intelligence and analytics.
-
-**→ View the project:** `enterprise_lead_intellegence`
+`[ POWER BI DASHBOARD SCREENSHOT ]`
 
 ---
 
-## 3. Business Data Visualization & Insights
+### 02 · Enterprise Lead Intelligence & Data Pipeline
 
-### Tata Consultancy Services Virtual Job Simulation
+**Python · PostgreSQL · Web Scraping · ETL · Data Validation · Automation · Docker**
+
+A modular data pipeline designed to collect, process, validate, normalize, and persist business lead data.
+
+**What I built**
+
+* Web data acquisition and scraping
+* Pagination and concurrent processing
+* Data normalization and validation
+* Identity and email validation
+* PostgreSQL persistence
+* Bulk database operations
+* Modular Python architecture
+* Automated tests
+* Dockerized development environment
+
+**Business focus:** Automating the collection and refinement of business lead data to create a reliable foundation for sales intelligence and analytics.
+
+**Repository:** [View Project](https://github.com/Ncoder3/enterprise_lead_intellegence)
+
+---
+
+### 03 · Business Data Visualization & Insights
 
 **Tableau · Python · Pandas · Excel · Data Cleaning · Business Analysis**
 
-Completed a virtual job simulation through Forage involving analysis of an online retail dataset.
+Completed a Tata Consultancy Services virtual job simulation through Forage, analyzing an online retail dataset for revenue trends, customer behavior, and geographic opportunities.
 
-### Key work
+**What I worked on**
 
-* Translated business questions into analytical tasks
+* Defined business questions around revenue and customer behavior
 * Cleaned and prepared the dataset
-* Analyzed revenue trends and customer behavior
-* Examined geographic performance
-* Created Tableau dashboards
-* Identified revenue and geographic insights
-* Prepared findings and recommendations for business stakeholders
+* Built four Tableau dashboards
+* Analyzed revenue trends and seasonality
+* Evaluated geographic performance
+* Examined customer concentration
+* Presented findings as business recommendations
 
-### Business Focus
+**Business focus:** Turning raw business data into analytical questions, visual insights, and actionable recommendations.
 
-Demonstrates the complete analytical process:
-
-**Business Question → Data Preparation → Analysis → Visualization → Recommendation**
-
-**→ View the project:** `tata-datavisualsimul`
+**Repository:** [View Project](https://github.com/Ncoder3/tata-datavisualsimul)
 
 ---
 
-# 🛠️ Technical Skills
+## Technical Skills
 
-### Data & Business Intelligence
+**Data & BI**
 
-`SQL` · `Power BI` · `Tableau` · `Excel` · `Data Visualization` · `Business Analytics`
+`SQL` `Power BI` `Data Modeling` `Business Analytics` `Data Visualization` `Dashboard Development`
 
-### Programming & Analysis
+**Programming**
 
-`Python` · `Pandas` · `NumPy` · `Statistical Analysis`
+`Python` `Pandas` `NumPy`
 
-### Data Engineering
+**Databases & Data Engineering**
 
-`PostgreSQL` · `ETL` · `Data Modeling` · `Data Cleaning` · `Data Quality` · `Data Validation`
+`PostgreSQL` `ETL` `Data Cleaning` `Data Validation` `Database Management`
 
-### Development & Tools
+**Analytics & Statistics**
 
-`Docker` · `Git` · `GitHub` · `Jupyter Notebook`
+`Statistical Analysis` `Data Analysis` `Business Intelligence`
+
+**Additional Background**
+
+`Machine Learning` `Mathematics` `Computational Fluid Dynamics`
 
 ---
 
-# 📊 My Analytics Workflow
+## How I Approach Data Problems
 
 ```text
 Business Problem
        ↓
-Data Collection
+Understand the Data
        ↓
-Data Cleaning & Validation
+Clean & Validate
        ↓
-Data Modeling
+Model the Data
        ↓
-SQL / Python Analysis
+Analyze
        ↓
-Visualization
+Visualize
        ↓
-Business Insights
+Generate Insights
        ↓
-Decision Support
+Support Decisions
 ```
 
----
-
-# 🎓 Background
-
-### MS Mathematics
-
-My mathematical background developed strong foundations in:
-
-* Analytical reasoning
-* Quantitative problem solving
-* Mathematical modeling
-* Computational methods
-* Structured problem solving
-
-I am applying this foundation to **Business Intelligence, Data Analytics, and data-driven decision making**.
+I focus on building solutions where **technical work connects directly to a business question.**
 
 ---
 
-# 📚 Current Focus
+## What I Build
 
-My primary professional focus is:
+### Business Intelligence
 
-### 🎯 Business Intelligence & Data Analytics
+Dashboards, KPI reporting, business analysis, and decision-support tools.
 
-Currently strengthening:
+### Data Analytics
 
-* Advanced SQL
-* Power BI
-* Data Modeling
-* ETL
-* Analytics Engineering
-* Python for Analytics
-* Business-focused statistical analysis
+Data cleaning, exploratory analysis, statistical analysis, and insight generation.
 
-I am also continuing to develop my understanding of **Machine Learning and AI** as a secondary technical direction.
+### Data Pipelines
 
----
+ETL workflows, validation, transformation, and database-backed data processing.
 
-# 📌 Portfolio Direction
+### Automation
 
-My goal is to build practical projects around:
-
-**Data Analytics → Business Intelligence → Data Engineering → AI-enabled Analytics**
-
-Rather than focusing only on technical implementation, I aim to understand the complete path from a business problem to a reliable analytical solution.
+Python-based workflows that reduce repetitive manual data preparation and processing.
 
 ---
 
-# 🤝 Let's Connect
+## Background
 
-I am interested in opportunities involving:
+My academic background is in **Mathematics**, with graduate-level work involving computational modeling, numerical methods, and scientific data analysis.
 
-* Data Analytics
-* Business Intelligence
-* BI / Data Analyst roles
-* Analytics and reporting
-* Data-focused business operations
+This background strengthened my ability to:
 
-**GitHub:** `Ncoder3`
+* Think analytically and systematically
+* Work with quantitative models
+* Understand complex datasets
+* Solve structured problems
+* Translate mathematical reasoning into computational workflows
 
-**LinkedIn:** Add your LinkedIn profile here
+I’m now applying that analytical foundation to **Business Intelligence, Data Analytics, and data-driven decision making.**
 
 ---
 
-### ⭐ Thanks for visiting my portfolio
+## Currently Learning
 
-Feel free to explore the repositories and projects showcased above.
+* Advanced SQL & analytical querying
+* Power BI & business intelligence
+* Data modeling and analytics engineering
+* Python data engineering
+* Machine learning fundamentals
+* AI-assisted analytics
 
+---
+
+## Portfolio Philosophy
+
+> **Build practical projects.
+> Solve real problems.
+> Show the work.
+> Let the results speak.**
+
+---
+
+## Connect
+
+**GitHub:** [Ncoder3](https://github.com/Ncoder3)
+
+I’m interested in opportunities involving **Data Analytics, Business Intelligence, SQL, Python, Power BI, and data-driven business operations.**
+
+---
+
+*Thanks for visiting my profile.*
