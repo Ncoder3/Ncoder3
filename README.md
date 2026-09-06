@@ -52,7 +52,7 @@ An end-to-end customer operations analytics platform integrating CRM, support, p
 
 **Dashboard Preview**
 
-> *Power BI screenshots will be added here.*
+<img width="667" height="375" alt="dashboard_overview" src="https://github.com/user-attachments/assets/a2d4879c-3d2b-46f3-859e-f340434f867b" />
 
 `[ POWER BI DASHBOARD SCREENSHOT ]`
 
